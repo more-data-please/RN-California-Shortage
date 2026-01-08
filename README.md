@@ -17,7 +17,6 @@ TOOLS & SKILLS
 DELIVERABLES
 - Interactive Tableau Dashboard <br>
 https://public.tableau.com/app/profile/jasmine.b1388/viz/CaliforniaRNShortage/Dashboard1
-<br>
 - Written Analytical Report (PDF) <br>
 https://github.com/more-data-please/RN-California-Shortage/blob/main/California_RN_Shortage_Report.pdf
 
