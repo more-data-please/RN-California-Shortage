@@ -1,7 +1,7 @@
 # RN-California-Shortage
 
 
-OVERVIEW
+OVERVIEW <br>
 Analyzed workforce and population data to assess registered nurse shortages across California, comparing licensed <br>
 versus employed RNs and evaluating population-driven healthcare staffing risk through clear, decision-ready reporting.
 
@@ -15,9 +15,10 @@ TOOLS & SKILLS
 <br>
 
 DELIVERABLES
-- Interactive Tableau Dashboard
+- Interactive Tableau Dashboard <br>
 https://public.tableau.com/app/profile/jasmine.b1388/viz/CaliforniaRNShortage/Dashboard1
 <br>
-- Written Analytical Report (PDF)
+- Written Analytical Report (PDF) <br>
+
 
 
